@@ -3,8 +3,9 @@
 
 <!-- Profile Pic (Optional) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="150" alt="Saqib's Avatar" style="border-radius:50%"/>
+  <img src="https://github.com/user-attachments/assets/ab10ee75-a7da-4b0b-9cc0-122426765257" alt="Inventory System UI" width="300"/>
 </p>
+
 
 <h2 align="center">👋 Hi, I'm Saqib — A Passionate Computer Science Student</h2>
 
