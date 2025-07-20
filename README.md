@@ -1,10 +1,6 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff" alt="header"/>
 
-<!-- Profile Pic (Optional) -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ab10ee75-a7da-4b0b-9cc0-122426765257" alt="Inventory System UI" width="300"/>
-</p>
 
 
 <h2 align="center">👋 Hi, I'm Saqib — A Passionate Computer Science Student</h2>
